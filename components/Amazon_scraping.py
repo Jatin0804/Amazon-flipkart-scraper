@@ -1,9 +1,10 @@
-import csv
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-import os
+
+# Set up Chrome options 
+chrome_options = Options()
+driver = webdriver.Chrome(options=chrome_options)
 
 def get_url(search_term):
     template = 'https://www.amazon.in/s?k={}'
@@ -43,12 +44,7 @@ def extract_record_amazon(item):
     return result
 
 def main(search_term):
-    # Set up Chrome options and Service
-    chrome_options = Options()
-    # Double backslashes or raw strings for Windows paths
-
-    driver = webdriver.Chrome(options=chrome_options)
-
+    
     records = []
     url = get_url(search_term)
 
@@ -69,6 +65,5 @@ def main(search_term):
 
 
 if __name__ == "__main__":
-    # Ask for search term and run the scraper
     search_term = input("Search term: ")
     main(search_term)

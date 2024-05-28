@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.options import Options
 import os
 
 def get_url(search_term):
-    template = 'https://www.flipkart.com/search?q={}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off'
+    template = 'https://www.amazon.in/s?k={}'
     search_term = search_term.replace(' ', '+')
     url = template.format(search_term)
     url += '&page={}'
@@ -14,30 +14,29 @@ def get_url(search_term):
 
 def extract_record(item):
     # Extract product information from search result item
-    a_tag = item.div.a
-    # description = a_tag.text.strip()
-    url = 'https://www.flipkart.com/' + a_tag.get('href')
+    a_tag = item.h2.a
+    description = a_tag.text.strip()
+    url = 'https://www.amazon.in' + a_tag.get('href')
 
     try:
-        description = item.find('div', 'KzDlHZ').text
+        sponsored = item.find('span', 'a-color-base').text
     except AttributeError:
-        description = ""
+        sponsored = ""
 
     # Extract price, rating, review count
     previous_price = ""
     try:
-        price_parent = item.find('div', 'hl05eU')
-        price = price_parent.find('div', 'Nx9bqj _4b5DiR').text
+        price_parent = item.find('span', 'a-price')
+        price = price_parent.find('span', 'a-offscreen').text
     except AttributeError:
         price = None
 
     try:
-        rating = item.find('div', 'XQDdHH').text
-        rating_count_parent = item.find('span', {'class': 'Wphh3N'})
-        rating_count = rating_count_parent.span.span.text
+        rating = item.i.text
+        review_count = item.find('span', {'class': 'a-size-base'}).text
     except AttributeError:
         rating = 'No reviews'
-        rating_count = '0'
+        review_count = '0'
 
     percent_discount = ""
     if previous_price:
@@ -49,7 +48,7 @@ def extract_record(item):
         percent_discount = f"{percent_discount}%"
 
     # Return extracted record
-    result = (description, price, rating, rating_count, url)
+    result = (description, price, rating, review_count, url)
     return result
 
 def main(search_term):
@@ -65,8 +64,7 @@ def main(search_term):
     for page in range(1, 10):
         driver.get(url.format(page))
         soup = BeautifulSoup(driver.page_source, 'html.parser')
-        results = soup.find_all('div', '_75nlfW')
-        # records.append(results)
+        results = soup.find_all('div', {'data-component-type': 's-search-result'})
 
         for item in results:
             record = extract_record(item)
@@ -77,12 +75,11 @@ def main(search_term):
     driver.quit()
 
     # Write records to CSV
-    with open(f'{search_term}_flipkart.csv', 'w', newline='', encoding='utf-8') as f:
+    with open(f'files/{search_term}_amazon.csv', 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow(['Description', 'Price', 'Rating', 'Rating Count', 'URL'])
+        writer.writerow(['Description', 'Price', 'Rating', 'Review Count', 'URL'])
         writer.writerows(records)
 
 # Ask for search term and run the scraper
 search_term = input("Search term: ")
 main(search_term)
-# main("mobiles")

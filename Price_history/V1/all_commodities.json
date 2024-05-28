@@ -1,0 +1,722 @@
+[
+    {
+        "Commodity Name": "Commodity Agricultural Raw Materials Index",
+        "Monthly Avg": "77.08",
+        "1 Month Change": "0.85%",
+        "12 Month Change": "1.88%",
+        "Year to Date Change": "0.85%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=agricultural-raw-materials-price-index"
+    },
+    {
+        "Commodity Name": "Commodity Beverage Price Index",
+        "Monthly Avg": "139.11",
+        "1 Month Change": "12.66%",
+        "12 Month Change": "35.61%",
+        "Year to Date Change": "12.66%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=beverage-price-index"
+    },
+    {
+        "Commodity Name": "Commodity Price Index",
+        "Monthly Avg": "159.24",
+        "1 Month Change": "0.00%",
+        "12 Month Change": "-8.78%",
+        "Year to Date Change": "0.00%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=commodity-price-index"
+    },
+    {
+        "Commodity Name": "Commodity Fuel (energy) Index",
+        "Monthly Avg": "102.26",
+        "1 Month Change": "1.07%",
+        "12 Month Change": "-7.48%",
+        "Year to Date Change": "1.07%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=energy-price-index"
+    },
+    {
+        "Commodity Name": "Commodity Food and Beverage Price Index",
+        "Monthly Avg": "138.54",
+        "1 Month Change": "1.64%",
+        "12 Month Change": "-1.37%",
+        "Year to Date Change": "1.64%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=food-and-beverage-price-index"
+    },
+    {
+        "Commodity Name": "Commodity Food Price Index",
+        "Monthly Avg": "116.57",
+        "1 Month Change": "-1.25%",
+        "12 Month Change": "-11.03%",
+        "Year to Date Change": "-1.25%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=food-price-index"
+    },
+    {
+        "Commodity Name": "Commodity Industrial Inputs Price Index",
+        "Monthly Avg": "162.25",
+        "1 Month Change": "-1.71%",
+        "12 Month Change": "-9.44%",
+        "Year to Date Change": "-1.71%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=industrial-inputs-price-index"
+    },
+    {
+        "Commodity Name": "Commodity Metals Price Index",
+        "Monthly Avg": "100.05",
+        "1 Month Change": "-1.94%",
+        "12 Month Change": "-10.70%",
+        "Year to Date Change": "-1.94%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=metals-price-index"
+    },
+    {
+        "Commodity Name": "Commodity Non-Fuel Price Index",
+        "Monthly Avg": "106.79",
+        "1 Month Change": "0.26%",
+        "12 Month Change": "-6.91%",
+        "Year to Date Change": "0.26%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=non-fuel-price-index"
+    },
+    {
+        "Commodity Name": "Crude Oil (petroleum), Price index",
+        "Monthly Avg": "195.53",
+        "1 Month Change": "4.56%",
+        "12 Month Change": "0.99%",
+        "Year to Date Change": "4.56%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=petroleum-price-index"
+    },
+    {
+        "Commodity Name": "Coal, Australian thermal coal",
+        "Monthly Avg": "124.22",
+        "1 Month Change": "-0.54%",
+        "12 Month Change": "-40.13%",
+        "Year to Date Change": "-0.54%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=coal-australian"
+    },
+    {
+        "Commodity Name": "Coal, South African export price",
+        "Monthly Avg": "105.19",
+        "1 Month Change": "-1.46%",
+        "12 Month Change": "-27.29%",
+        "Year to Date Change": "-1.46%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=coal-south-african"
+    },
+    {
+        "Commodity Name": "Crude Oil (petroleum)",
+        "Monthly Avg": "80.55",
+        "1 Month Change": "3.71%",
+        "12 Month Change": "0.37%",
+        "Year to Date Change": "3.71%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=crude-oil"
+    },
+    {
+        "Commodity Name": "Crude Oil (petroleum); Dated Brent",
+        "Monthly Avg": "83.76",
+        "1 Month Change": "4.40%",
+        "12 Month Change": "1.27%",
+        "Year to Date Change": "4.40%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=crude-oil-brent"
+    },
+    {
+        "Commodity Name": "Crude Oil (petroleum); Dubai Fateh",
+        "Monthly Avg": "81.18",
+        "1 Month Change": "2.94%",
+        "12 Month Change": "-0.04%",
+        "Year to Date Change": "2.94%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=crude-oil-dubai"
+    },
+    {
+        "Commodity Name": "Crude Oil (petroleum); West Texas Intermediate",
+        "Monthly Avg": "76.70",
+        "1 Month Change": "3.75%",
+        "12 Month Change": "-0.18%",
+        "Year to Date Change": "3.75%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=crude-oil-west-texas-intermediate"
+    },
+    {
+        "Commodity Name": "Diesel",
+        "Monthly Avg": "2.77",
+        "1 Month Change": "3.36%",
+        "12 Month Change": "-2.15%",
+        "Year to Date Change": "3.36%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=diesel"
+    },
+    {
+        "Commodity Name": "Gasoline",
+        "Monthly Avg": "2.33",
+        "1 Month Change": "3.65%",
+        "12 Month Change": "-8.14%",
+        "Year to Date Change": "3.65%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=gasoline"
+    },
+    {
+        "Commodity Name": "Heating Oil",
+        "Monthly Avg": "2.70",
+        "1 Month Change": "4.36%",
+        "12 Month Change": "2.19%",
+        "Year to Date Change": "4.36%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=heating-oil"
+    },
+    {
+        "Commodity Name": "Indonesian Liquified Natural Gas",
+        "Monthly Avg": "14.21",
+        "1 Month Change": "-0.91%",
+        "12 Month Change": "-22.86%",
+        "Year to Date Change": "-0.91%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=indonesian-liquified-natural-gas"
+    },
+    {
+        "Commodity Name": "Jet Fuel",
+        "Monthly Avg": "2.68",
+        "1 Month Change": "3.79%",
+        "12 Month Change": "-3.84%",
+        "Year to Date Change": "3.79%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=jet-fuel"
+    },
+    {
+        "Commodity Name": "Natural Gas",
+        "Monthly Avg": "1.72",
+        "1 Month Change": "-45.91%",
+        "12 Month Change": "-27.73%",
+        "Year to Date Change": "-45.91%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=natural-gas"
+    },
+    {
+        "Commodity Name": "Propane",
+        "Monthly Avg": "0.91",
+        "1 Month Change": "10.60%",
+        "12 Month Change": "9.66%",
+        "Year to Date Change": "10.60%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=propane"
+    },
+    {
+        "Commodity Name": "RBOB Gasoline",
+        "Monthly Avg": "2.56",
+        "1 Month Change": "12.36%",
+        "12 Month Change": "-12.11%",
+        "Year to Date Change": "12.36%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=rbob-gasoline"
+    },
+    {
+        "Commodity Name": "Russian Natural Gas",
+        "Monthly Avg": "8.15",
+        "1 Month Change": "-14.75%",
+        "12 Month Change": "-50.73%",
+        "Year to Date Change": "-14.75%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=russian-natural-gas"
+    },
+    {
+        "Commodity Name": "Cocoa beans",
+        "Monthly Avg": "5.56",
+        "1 Month Change": "26.36%",
+        "12 Month Change": "109.81%",
+        "Year to Date Change": "26.36%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=cocoa-beans"
+    },
+    {
+        "Commodity Name": "Coffee, Other Mild Arabicas",
+        "Monthly Avg": "4.61",
+        "1 Month Change": "3.13%",
+        "12 Month Change": "-8.89%",
+        "Year to Date Change": "3.13%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=other-mild-arabicas-coffee"
+    },
+    {
+        "Commodity Name": "Coffee, Robusta",
+        "Monthly Avg": "3.38",
+        "1 Month Change": "3.68%",
+        "12 Month Change": "47.60%",
+        "Year to Date Change": "3.68%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=robusta-coffee"
+    },
+    {
+        "Commodity Name": "Tea",
+        "Monthly Avg": "2.23",
+        "1 Month Change": "1.36%",
+        "12 Month Change": "-2.62%",
+        "Year to Date Change": "1.36%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=tea"
+    },
+    {
+        "Commodity Name": "Barley",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=barley"
+    },
+    {
+        "Commodity Name": "Canadian Wheat",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=canadian-wheat"
+    },
+    {
+        "Commodity Name": "Maize (corn)",
+        "Monthly Avg": "189.13",
+        "1 Month Change": "-4.78%",
+        "12 Month Change": "-36.57%",
+        "Year to Date Change": "-4.78%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=corn"
+    },
+    {
+        "Commodity Name": "Rice",
+        "Monthly Avg": "624.00",
+        "1 Month Change": "-5.45%",
+        "12 Month Change": "26.83%",
+        "Year to Date Change": "-5.45%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=rice"
+    },
+    {
+        "Commodity Name": "Soft Red Winter Wheat",
+        "Monthly Avg": "246.16",
+        "1 Month Change": "-0.69%",
+        "12 Month Change": "-21.07%",
+        "Year to Date Change": "-0.69%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=soft-red-winter-wheat"
+    },
+    {
+        "Commodity Name": "Sorghum",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=sorghum"
+    },
+    {
+        "Commodity Name": "Wheat",
+        "Monthly Avg": "278.50",
+        "1 Month Change": "-1.91%",
+        "12 Month Change": "-29.45%",
+        "Year to Date Change": "-1.91%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=wheat"
+    },
+    {
+        "Commodity Name": "Bananas",
+        "Monthly Avg": "1.57",
+        "1 Month Change": "-2.48%",
+        "12 Month Change": "-5.42%",
+        "Year to Date Change": "-2.48%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=bananas"
+    },
+    {
+        "Commodity Name": "Oranges",
+        "Monthly Avg": "1.95",
+        "1 Month Change": "16.77%",
+        "12 Month Change": "50.00%",
+        "Year to Date Change": "16.77%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=oranges"
+    },
+    {
+        "Commodity Name": "Beef",
+        "Monthly Avg": "5.19",
+        "1 Month Change": "7.45%",
+        "12 Month Change": "11.61%",
+        "Year to Date Change": "7.45%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=beef"
+    },
+    {
+        "Commodity Name": "Poultry (chicken)",
+        "Monthly Avg": "1.52",
+        "1 Month Change": "-3.18%",
+        "12 Month Change": "-0.65%",
+        "Year to Date Change": "-3.18%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=chicken"
+    },
+    {
+        "Commodity Name": "Lamb",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=lamb"
+    },
+    {
+        "Commodity Name": "Swine (pork)",
+        "Monthly Avg": "74.78",
+        "1 Month Change": "11.13%",
+        "12 Month Change": "1.81%",
+        "Year to Date Change": "11.13%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=pork"
+    },
+    {
+        "Commodity Name": "Fish (salmon)",
+        "Monthly Avg": "10.27",
+        "1 Month Change": "0.59%",
+        "12 Month Change": "8.22%",
+        "Year to Date Change": "0.59%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=fish"
+    },
+    {
+        "Commodity Name": "Shrimp",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=shrimp"
+    },
+    {
+        "Commodity Name": "Sugar",
+        "Monthly Avg": "0.50",
+        "1 Month Change": "4.17%",
+        "12 Month Change": "11.11%",
+        "Year to Date Change": "4.17%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=sugar"
+    },
+    {
+        "Commodity Name": "Sugar, European import price",
+        "Monthly Avg": "0.35",
+        "1 Month Change": "-2.78%",
+        "12 Month Change": "0.00%",
+        "Year to Date Change": "-2.78%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=sugar-european-import-price"
+    },
+    {
+        "Commodity Name": "Sugar, U.S. import price",
+        "Monthly Avg": "0.92",
+        "1 Month Change": "4.55%",
+        "12 Month Change": "13.58%",
+        "Year to Date Change": "4.55%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=sugar-us-import-price"
+    },
+    {
+        "Commodity Name": "Coconut Oil",
+        "Monthly Avg": "1,171.58",
+        "1 Month Change": "3.63%",
+        "12 Month Change": "7.81%",
+        "Year to Date Change": "3.63%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=coconut-oil"
+    },
+    {
+        "Commodity Name": "Fishmeal",
+        "Monthly Avg": "1,731.46",
+        "1 Month Change": "-3.13%",
+        "12 Month Change": "-1.74%",
+        "Year to Date Change": "-3.13%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=fish-meal"
+    },
+    {
+        "Commodity Name": "Olive Oil, extra virgin",
+        "Monthly Avg": "10,067.17",
+        "1 Month Change": "-2.08%",
+        "12 Month Change": "70.75%",
+        "Year to Date Change": "-2.08%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=olive-oil"
+    },
+    {
+        "Commodity Name": "Palm Kernel Oil",
+        "Monthly Avg": "1,034.17",
+        "1 Month Change": "5.80%",
+        "12 Month Change": "-0.24%",
+        "Year to Date Change": "5.80%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=palm-kernel-oil"
+    },
+    {
+        "Commodity Name": "Palm oil",
+        "Monthly Avg": "856.93",
+        "1 Month Change": "1.42%",
+        "12 Month Change": "-9.79%",
+        "Year to Date Change": "1.42%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=palm-oil"
+    },
+    {
+        "Commodity Name": "Peanut Oil",
+        "Monthly Avg": "1,809.43",
+        "1 Month Change": "-4.57%",
+        "12 Month Change": "-11.42%",
+        "Year to Date Change": "-4.57%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=peanut-oil"
+    },
+    {
+        "Commodity Name": "Groundnuts (peanuts)",
+        "Monthly Avg": "2,025.00",
+        "1 Month Change": "-1.51%",
+        "12 Month Change": "15.71%",
+        "Year to Date Change": "-1.51%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=peanuts"
+    },
+    {
+        "Commodity Name": "Rapeseed Oil",
+        "Monthly Avg": "962.71",
+        "1 Month Change": "-0.96%",
+        "12 Month Change": "-19.00%",
+        "Year to Date Change": "-0.96%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=rapeseed-oil"
+    },
+    {
+        "Commodity Name": "Soybean Meal",
+        "Monthly Avg": "457.08",
+        "1 Month Change": "-7.41%",
+        "12 Month Change": "-24.48%",
+        "Year to Date Change": "-7.41%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=soybean-meal"
+    },
+    {
+        "Commodity Name": "Soybean Oil",
+        "Monthly Avg": "911.90",
+        "1 Month Change": "-6.13%",
+        "12 Month Change": "-26.64%",
+        "Year to Date Change": "-6.13%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=soybean-oil"
+    },
+    {
+        "Commodity Name": "Soybeans",
+        "Monthly Avg": "519.75",
+        "1 Month Change": "-5.05%",
+        "12 Month Change": "-20.18%",
+        "Year to Date Change": "-5.05%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=soybeans"
+    },
+    {
+        "Commodity Name": "Sunflower oil",
+        "Monthly Avg": "925.08",
+        "1 Month Change": "-1.94%",
+        "12 Month Change": "-20.16%",
+        "Year to Date Change": "-1.94%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=sunflower-oil"
+    },
+    {
+        "Commodity Name": "Coarse Wool",
+        "Monthly Avg": "873.47",
+        "1 Month Change": "-3.75%",
+        "12 Month Change": "-8.04%",
+        "Year to Date Change": "-3.75%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=coarse-wool"
+    },
+    {
+        "Commodity Name": "Copra",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=copra"
+    },
+    {
+        "Commodity Name": "Cotton",
+        "Monthly Avg": "2.19",
+        "1 Month Change": "7.88%",
+        "12 Month Change": "0.00%",
+        "Year to Date Change": "7.88%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=cotton"
+    },
+    {
+        "Commodity Name": "Fine Wool",
+        "Monthly Avg": "921.18",
+        "1 Month Change": "-5.03%",
+        "12 Month Change": "-22.75%",
+        "Year to Date Change": "-5.03%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=fine-wool"
+    },
+    {
+        "Commodity Name": "Hard Logs",
+        "Monthly Avg": "199.13",
+        "1 Month Change": "-2.25%",
+        "12 Month Change": "-11.11%",
+        "Year to Date Change": "-2.25%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=hard-logs"
+    },
+    {
+        "Commodity Name": "Hard Sawnwood",
+        "Monthly Avg": "688.39",
+        "1 Month Change": "-0.56%",
+        "12 Month Change": "4.43%",
+        "Year to Date Change": "-0.56%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=hard-sawn-wood"
+    },
+    {
+        "Commodity Name": "Hides",
+        "Monthly Avg": "57.86",
+        "1 Month Change": "-1.08%",
+        "12 Month Change": "0.71%",
+        "Year to Date Change": "-1.08%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=hides"
+    },
+    {
+        "Commodity Name": "Plywood",
+        "Monthly Avg": "365.25",
+        "1 Month Change": "-2.25%",
+        "12 Month Change": "-11.11%",
+        "Year to Date Change": "-2.25%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=plywood"
+    },
+    {
+        "Commodity Name": "Rubber",
+        "Monthly Avg": "2.02",
+        "1 Month Change": "12.22%",
+        "12 Month Change": "24.69%",
+        "Year to Date Change": "12.22%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=rubber"
+    },
+    {
+        "Commodity Name": "Soft Logs",
+        "Monthly Avg": "201.32",
+        "1 Month Change": "0.00%",
+        "12 Month Change": "-9.34%",
+        "Year to Date Change": "0.00%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=soft-logs"
+    },
+    {
+        "Commodity Name": "Soft Sawnwood",
+        "Monthly Avg": "315.11",
+        "1 Month Change": "0.00%",
+        "12 Month Change": "-5.06%",
+        "Year to Date Change": "0.00%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=soft-sawn-wood"
+    },
+    {
+        "Commodity Name": "Wood Pulp",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=wood-pulp"
+    },
+    {
+        "Commodity Name": "Aluminum",
+        "Monthly Avg": "2,179.09",
+        "1 Month Change": "-0.63%",
+        "12 Month Change": "-9.81%",
+        "Year to Date Change": "-0.63%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=aluminum"
+    },
+    {
+        "Commodity Name": "Cold-rolled steel",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=cold-rolled-steel"
+    },
+    {
+        "Commodity Name": "Copper, grade A cathode",
+        "Monthly Avg": "8,300.12",
+        "1 Month Change": "-0.46%",
+        "12 Month Change": "-7.12%",
+        "Year to Date Change": "-0.46%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=copper"
+    },
+    {
+        "Commodity Name": "Gold",
+        "Monthly Avg": "2,023.24",
+        "1 Month Change": "-0.53%",
+        "12 Month Change": "9.10%",
+        "Year to Date Change": "-0.53%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=gold"
+    },
+    {
+        "Commodity Name": "Hot-rolled steel",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=hot-rolled-steel"
+    },
+    {
+        "Commodity Name": "Iron Ore",
+        "Monthly Avg": "124.39",
+        "1 Month Change": "-8.42%",
+        "12 Month Change": "-2.52%",
+        "Year to Date Change": "-8.42%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=iron-ore"
+    },
+    {
+        "Commodity Name": "Lead",
+        "Monthly Avg": "2,080.93",
+        "1 Month Change": "-0.25%",
+        "12 Month Change": "-0.58%",
+        "Year to Date Change": "-0.25%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=lead"
+    },
+    {
+        "Commodity Name": "Nickel",
+        "Monthly Avg": "16,271.91",
+        "1 Month Change": "1.04%",
+        "12 Month Change": "-39.12%",
+        "Year to Date Change": "1.04%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=nickel"
+    },
+    {
+        "Commodity Name": "Rebar",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=rebar"
+    },
+    {
+        "Commodity Name": "Silver",
+        "Monthly Avg": "22.66",
+        "1 Month Change": "-1.13%",
+        "12 Month Change": "3.38%",
+        "Year to Date Change": "-1.13%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=silver"
+    },
+    {
+        "Commodity Name": "Steel wire rod",
+        "Monthly Avg": " ",
+        "1 Month Change": " ",
+        "12 Month Change": " ",
+        "Year to Date Change": " ",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=steel-wire-rod"
+    },
+    {
+        "Commodity Name": "Tin",
+        "Monthly Avg": "26,091.07",
+        "1 Month Change": "3.95%",
+        "12 Month Change": "-2.87%",
+        "Year to Date Change": "3.95%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=tin"
+    },
+    {
+        "Commodity Name": "Uranium",
+        "Monthly Avg": "81.32",
+        "1 Month Change": "1.19%",
+        "12 Month Change": "96.85%",
+        "Year to Date Change": "1.19%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=uranium"
+    },
+    {
+        "Commodity Name": "Zinc",
+        "Monthly Avg": "2,359.01",
+        "1 Month Change": "-6.22%",
+        "12 Month Change": "-24.72%",
+        "Year to Date Change": "-6.22%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=zinc"
+    },
+    {
+        "Commodity Name": "DAP fertilizer",
+        "Monthly Avg": "583.81",
+        "1 Month Change": "-2.09%",
+        "12 Month Change": "-4.68%",
+        "Year to Date Change": "-2.09%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=dap-fertilizer"
+    },
+    {
+        "Commodity Name": "Potassium Chloride",
+        "Monthly Avg": "289.38",
+        "1 Month Change": "-2.32%",
+        "12 Month Change": "-41.76%",
+        "Year to Date Change": "-2.32%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=potassium-chloride"
+    },
+    {
+        "Commodity Name": "Rock Phosphate",
+        "Monthly Avg": "152.50",
+        "1 Month Change": "0.00%",
+        "12 Month Change": "-52.71%",
+        "Year to Date Change": "0.00%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=rock-phosphate"
+    },
+    {
+        "Commodity Name": "Triple Superphosphate",
+        "Monthly Avg": "454.38",
+        "1 Month Change": "0.83%",
+        "12 Month Change": "-17.01%",
+        "Year to Date Change": "0.83%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=triple-superphosphate"
+    },
+    {
+        "Commodity Name": "Urea",
+        "Monthly Avg": "351.25",
+        "1 Month Change": "4.73%",
+        "12 Month Change": "-1.75%",
+        "Year to Date Change": "4.73%",
+        "URL": "https://www.indexmundi.com/commodities/?commodity=urea"
+    }
+]
